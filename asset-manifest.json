@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/comments.github.io/static/css/main.7eee306d.css",
-    "main.js": "/comments.github.io/static/js/main.498ecdb8.js",
+    "main.js": "/comments.github.io/static/js/main.13588afc.js",
+    "static/media/back.png": "/comments.github.io/static/media/back.ad6e8cd790820a406794.png",
     "static/media/han-solo.jpg": "/comments.github.io/static/media/han-solo.84705bac66e252072c67.jpg",
     "static/media/grey-like.svg": "/comments.github.io/static/media/grey-like.4c5eac7c9ac083d75e434a3bf3376d14.svg",
     "static/media/empty-like.svg": "/comments.github.io/static/media/empty-like.695a6e9269813849f5ebd8686878cfe6.svg",
     "index.html": "/comments.github.io/index.html",
     "static/media/like.svg": "/comments.github.io/static/media/like.ce8a23c6a5fe3d966e60f164d55baa0f.svg",
     "main.7eee306d.css.map": "/comments.github.io/static/css/main.7eee306d.css.map",
-    "main.498ecdb8.js.map": "/comments.github.io/static/js/main.498ecdb8.js.map"
+    "main.13588afc.js.map": "/comments.github.io/static/js/main.13588afc.js.map"
   },
   "entrypoints": [
     "static/css/main.7eee306d.css",
-    "static/js/main.498ecdb8.js"
+    "static/js/main.13588afc.js"
   ]
 }
